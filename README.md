@@ -33,4 +33,4 @@ A fun and challenging word-guessing game built with HTML, CSS, and JavaScript.
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 **Screenshot**
-![Uploading Screenshot 2024-06-04 221740.png…]()
+![Screenshot 2024-06-04 221740](https://github.com/ElhacenMahmoud/Guess_The_Word_Game/assets/156904270/b4db0870-d5b8-4e66-a630-2815e1bf9c06)
